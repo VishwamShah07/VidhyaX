@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VidhyaX/static/css/main.fc7c9212.css",
-    "main.js": "/VidhyaX/static/js/main.ac765110.js",
+    "main.js": "/VidhyaX/static/js/main.5f33c94b.js",
     "static/js/453.68693753.chunk.js": "/VidhyaX/static/js/453.68693753.chunk.js",
     "static/media/b1.jpg": "/VidhyaX/static/media/b1.965f3e1d63568d4d632c.jpg",
     "static/media/backwallpaper.jpg": "/VidhyaX/static/media/backwallpaper.cebb47b68103e05a0fbe.jpg",
@@ -51,11 +51,11 @@
     "static/media/paper-download.png": "/VidhyaX/static/media/paper-download.07bc4f5072d818eacc16.png",
     "index.html": "/VidhyaX/index.html",
     "main.fc7c9212.css.map": "/VidhyaX/static/css/main.fc7c9212.css.map",
-    "main.ac765110.js.map": "/VidhyaX/static/js/main.ac765110.js.map",
+    "main.5f33c94b.js.map": "/VidhyaX/static/js/main.5f33c94b.js.map",
     "453.68693753.chunk.js.map": "/VidhyaX/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc7c9212.css",
-    "static/js/main.ac765110.js"
+    "static/js/main.5f33c94b.js"
   ]
 }
